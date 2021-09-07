@@ -1,6 +1,5 @@
 {
   "name": "movie",
-  "homepage": "https://deepsingh9868.github.io/moviesmania",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
